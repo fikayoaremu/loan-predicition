@@ -1,1 +1,2 @@
-# loan-predicition
+# Loan Prediction
+This is a knowledge and learning hackathon on Analyticsvidhya. Dream Housing Finance company deals in home loans. Company wants to automate the loan eligibility process (real time) based on customer detail provided while filling online application form. Based on customer’s information we predict whether they should receive a loan or not. General description and data are available on Analyticsvidhya.
